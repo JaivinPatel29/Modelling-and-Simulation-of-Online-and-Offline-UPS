@@ -1,0 +1,2 @@
+# Modelling-and-Simulation-of-Online-and-Offline-UPS
+The project “Modeling and Simulation of Online and Offline UPS” was undertaken in MATLAB/Simulink to study the operational differences between two widely used uninterruptible power supply topologies. Separate models were developed for online and offline UPS systems, each comprising functional components such as rectifiers,inverters, battery systems
